@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Date: 2023年12月18日13:46:27
+ * 有问题联系 纸飞机(Telegram): https://t.me/king_orz
+
+ * 温馨提示：接受各种代码定制
+ */
+
+// 定义项目路径
+define('APP_PATH', __DIR__ . '/application/');
+
+// 加载框架引导文件
+require __DIR__ . '/thinkphp/console.php';
